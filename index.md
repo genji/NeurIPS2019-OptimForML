@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Optimization Foundations for Reinforcement Learning
 
 You can use the [editor on GitHub](https://github.com/genji/NeurIPS2019-OptimForML/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
