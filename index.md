@@ -36,8 +36,6 @@ The submission deadline is **September 10th, 2019, 11:59pm PST** and the accepta
 - Acceptance notification: October 1st, 2019
 - Camera ready submission:November 15th, 2019
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/genji/NeurIPS2019-OptimForML/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 # Committees
 
 ## Organizers
