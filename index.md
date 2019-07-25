@@ -15,8 +15,6 @@ The goal of this workshop is to catalyze the collaboration between reinforcement
 - Mengdi Wang
 - Huizhen Yu
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 # Call for papers
 
 We will invite submissions on topics such as, but not limited to:
