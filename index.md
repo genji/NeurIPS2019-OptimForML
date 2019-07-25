@@ -1,6 +1,4 @@
-# Optimization Foundations for Reinforcement Learning
-
-## Background
+# Background
 
 Dynamic programming (DP) based algorithms, which apply various forms of the Bellman operator, dominate the literature on model-free reinforcement learning (RL). While DP is powerful, the value function estimate can oscillate or even diverge when function approximation is introduced with off-policy data, except in special cases [1-8]. This problem has been well-known for decades (referred to as the deadly triad in the literature), and has remained a critical open fundamental problem in RL.
 
@@ -10,7 +8,7 @@ In addition to being able to apply powerful optimization techniques to a variety
 
 The goal of this workshop is to catalyze the collaboration between reinforcement learning and optimization communities, pushing the boundaries from both sides. It will provide a forum for establishing a mutually accessible introduction to current research on this integration, and allow exploration of recent advances in optimization for potential application in reinforcement learning. It will also be a window to identify and discuss existing challenges and forward-looking problems of interest in reinforcement learning to the optimization community. 
 
-## Keynote speakers
+# Keynote speakers
 
 - Shipra Agrawal
 - Ben Van Roy
@@ -19,7 +17,7 @@ The goal of this workshop is to catalyze the collaboration between reinforcement
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-## Call for papers
+# Call for papers
 
 We will invite submissions on topics such as, but not limited to:
 - Optimization formulations and algorithms for RL
@@ -34,7 +32,7 @@ A submission is up to 6 pages long in the NeurIPS style, excluding references an
 The submission deadline is **September 10th, 2019, 11:59pm PST** and the acceptance notification will be distributed no later than October 1st, 2019. Submissions will be accepted as contributed talks, spotlight or poster presentations based on novelty, technical merit and alignment to the workshop's goals. Final versions will be posted on the workshop website. 
 
 
-## Key dates
+# Key dates
 
 - Submission deadline: September 10th, 2019 (11:59pm PST)
 - Acceptance notification: October 1st, 2019
@@ -42,12 +40,12 @@ The submission deadline is **September 10th, 2019, 11:59pm PST** and the accepta
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/genji/NeurIPS2019-OptimForML/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-## Committees
+# Committees
 
-### Organizers
+## Organizers
 
 Bo Dai, Niao He, Nicolas Le Roux, Lihong Li, Dale Schuurmans, Martha White
 
-### Program committee
+## Program committee
 
 TBD
